@@ -3,4 +3,3 @@ he InterPlanetary File System (IPFS) is a protocol, hypermedia and file sharing 
 ## Distributed Hash table
 ![Image](https://github.com/user-attachments/assets/21840bfd-2b00-416d-8884-6ece80b93783)
 ## IPFS
-[hii.pdf](https://github.com/user-attachments/files/19699250/hii.pdf)
