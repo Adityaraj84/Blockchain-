@@ -5,3 +5,6 @@ The InterPlanetary File System (IPFS) is a protocol, hypermedia and file sharing
 ## IPFS
 ![Image](https://github.com/user-attachments/assets/e266d10b-5db9-4c4a-889f-5cdfe53f0e00)
 
+# IPFS INSTALLATION STEPS-
+![Image](https://github.com/user-attachments/assets/5fa219b6-db1b-4066-8e9f-27deb78ca572)
+![Image](https://github.com/user-attachments/assets/b67b025e-0411-48a7-b10b-73231da16638)
