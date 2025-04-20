@@ -10,3 +10,4 @@
 10. ./network.sh up
 11. ./network.sh createChannel
 12. ./network.sh down
+![Image](https://github.com/user-attachments/assets/8927fc4a-b64e-4f09-9352-5e960e336b2d)
